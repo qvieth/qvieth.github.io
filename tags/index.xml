@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on qvieth</title>
+    <link>https://qvieth.github.io/tags/</link>
+    <description>Recent content in Tags on qvieth</description>
+    <image>
+      <url>https://qvieth.github.io/qvieth.png</url>
+      <link>https://qvieth.github.io/qvieth.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Sep 2021 17:02:54 +0700</lastBuildDate><atom:link href="https://qvieth.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>meta</title>
+      <link>https://qvieth.github.io/tags/meta/</link>
+      <pubDate>Fri, 24 Sep 2021 17:02:54 +0700</pubDate>
+      
+      <guid>https://qvieth.github.io/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://qvieth.github.io/tags/writing/</link>
+      <pubDate>Fri, 24 Sep 2021 17:02:54 +0700</pubDate>
+      
+      <guid>https://qvieth.github.io/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

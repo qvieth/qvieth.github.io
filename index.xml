@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>qvieth</title>
+    <link>https://qvieth.github.io/</link>
+    <description>Recent content on qvieth</description>
+    <image>
+      <url>https://qvieth.github.io/qvieth.png</url>
+      <link>https://qvieth.github.io/qvieth.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Sep 2021 20:21:02 +0700</lastBuildDate><atom:link href="https://qvieth.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Request For Comments</title>
+      <link>https://qvieth.github.io/posts/request-for-comments/</link>
+      <pubDate>Fri, 24 Sep 2021 20:21:02 +0700</pubDate>
+      
+      <guid>https://qvieth.github.io/posts/request-for-comments/</guid>
+      <description>Dear My Avid Readers&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The books that shape my 2021</title>
+      <link>https://qvieth.github.io/posts/new/</link>
+      <pubDate>Fri, 24 Sep 2021 17:02:54 +0700</pubDate>
+      
+      <guid>https://qvieth.github.io/posts/new/</guid>
+      <description>book that shape my 2021</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
